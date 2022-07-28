@@ -9,3 +9,6 @@ see imagelist.txt
 ```bash
     ./install.bash
 ```
+
+## install imagebuilder
+ go get -u github.com/openshift/imagebuilder/cmd/imagebuilder
